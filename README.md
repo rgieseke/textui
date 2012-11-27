@@ -18,9 +18,9 @@ same directory.
 ## Usage
 
 To get started with development using TextUI, head over to the
-[LDoc documentation](http://rgieseke.github.com/textui/docs). A good place to start is
+[LDoc documentation](http://nilnor.github.com/textui/docs). A good place to start is
 the documentation for the
-[textui module](http://rgieseke.github.com/textui/docs/modules/_M.textui.html) itself.
+[textui module](http://nilnor.github.com/textui/docs/modules/_M.textui.html) itself.
 
 ## License
 
