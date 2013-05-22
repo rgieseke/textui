@@ -1,13 +1,15 @@
-# TextUI - a module for easily creating text based interfaces for Textadept
+## TextUI - a module for easily creating text based interfaces for Textadept
 
-## What is it?
+*TextUI is now part of [Textredux](https://github.com/rgieseke/textredux).*
+
+### What is it?
 
 TextUI is a module for the [Textadept Editor](http://foicica.com/textadept/)
 that allows you to easily create custom text based interfaces. It enables you to
 create text based interfaces using custom, non-lexer based, styling, and offers
 an easy way of responding to user input.
 
-## Installation
+### Installation
 
 You can download TextUI from the [download page](https://github.com/rgieseke/textui/tags).
 Install it by unpacking the contents to the `~/.textadept/modules/textui/` directory.
@@ -15,19 +17,19 @@ Install it by unpacking the contents to the `~/.textadept/modules/textui/` direc
 If you so desire you can of course also clone the repository using git into the
 same directory.
 
-## Usage
+### Usage
 
 To get started with development using TextUI, head over to the
 [LDoc documentation](http://nilnor.github.com/textui/docs). A good place to start is
 the documentation for the
 [textui module](http://nilnor.github.com/textui/docs/modules/_M.textui.html) itself.
 
-## License
+### License
 
 TextUI is released under the MIT license (please see the
 [LICENSE](https://github.com/rgieseke/textui/blob/master/LICENSE) for the full license.
 
-## Contribute
+### Contribute
 TextUI was written by [Nils Nordman](https://github.com/nilnor) and is now
 maintained by [Robert Gieseke](https://github.com/rgieseke).
 
@@ -41,13 +43,13 @@ If you have any bug reports or feature requests, please submit these to the
 [Github issue tracker](https://github.com/rgieseke/textui/issues). As with
 patches, I'll be happy to recieve these through other means as well.
 
-## Release history
+### Release history
 
-### 0.3 (2012-11-28)
+#### 0.3 (2012-11-28)
 
 - Update for 6.0 API changes in Textadept.
 
-### 0.2 (2012-03-08)
+#### 0.2 (2012-03-08)
 
 - Added support for indicators
 - Improved auto-loading of not-shown list items
@@ -56,6 +58,6 @@ patches, I'll be happy to recieve these through other means as well.
 - Font names are now included for default styles
 - List selection callbacks now receive modifiers as well
 
-### 0.1 (2012-02-20)
+#### 0.1 (2012-02-20)
 
 First public release.
